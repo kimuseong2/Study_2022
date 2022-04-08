@@ -1,5 +1,6 @@
 package BBG;
 
+import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.regex.Pattern;
@@ -53,7 +54,9 @@ public class BBG {
                 System.out.println(k+1 +"번째 숫자");
                 resNum[k] = scanner.nextInt();
 
+
                 while (resNum[k] >= 10 ) {
+
                     System.out.println("한자리 숫자만 입력 해주세요");
                     resNum[k] = scanner.nextInt();
                 }
