@@ -11,9 +11,7 @@
 
 ###### 📱contact
 <a href="https://www.instagram.com/u_seong__/">
-    <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram&link=https://www.instagram.com/u_seong__/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
