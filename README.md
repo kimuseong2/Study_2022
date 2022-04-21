@@ -12,7 +12,7 @@
 ###### 📱contact
 <a href="https://www.instagram.com/u_seong__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a> <img src="https://img.shields.io/badge/dntjd4562@sinsabridge.com-EA4335?style=for-the-badge&logo=Gamil&logoColor=white">
+</a> <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=Gamil&logoColor=white"><img src="https://img.shields.io/badge/dntjd4562@sinsabridge.com-EA4335?style=for-the-badge&logo=Gamil&logoColor=white">
 
 
 
