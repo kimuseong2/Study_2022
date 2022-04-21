@@ -1,5 +1,10 @@
 # Study_2022
-ReadMe.md 작성연습
+💌ReadMe.md 작성연습
+
+🐒Useong'profiles
+
+📖Skills
+<img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=white">
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
