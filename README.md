@@ -12,7 +12,8 @@
 ###### 📱contact
 <a href="https://www.instagram.com/u_seong__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+</a> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=dntjd4562@sinsabridge.com&logoColor=white">
+
 
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
