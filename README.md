@@ -1,6 +1,8 @@
 # Study_2022
 ReadMe.md 작성연습
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10&section=header&text=좋아요는 사랑입니다&fontSize=15)
+
 # 가장큰 크기의 text로 변환 = '#'
 ## 그다음 작은 크기위 text로 변환  = '##'
 ### 그다음 작은 크기의 text로 변환 = '###'
