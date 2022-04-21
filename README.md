@@ -15,7 +15,7 @@ ReadMe.md 작성연습
 ``` 
 다시 일반 TEXT 변환
 
-```
+```java
 System.out.println("Hello JAVA");
 ```
   
