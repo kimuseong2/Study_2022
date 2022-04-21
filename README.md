@@ -22,5 +22,6 @@ System.out.println("Hello JAVA");
 
 
 이번엔 수평선을 만들어 보겠습니다.
+
 -------------
   
